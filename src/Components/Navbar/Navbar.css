@@ -1,0 +1,29 @@
+:root {
+  --primary-colour: #fdd800;
+}
+
+/* .navbar {
+  display: flex;
+  justify-content: space-between;
+} */
+
+#brand-logo {
+  color: var(--primary-colour);
+}
+
+.brand-name {
+  font-weight: bold;
+}
+
+#contact-us-btn {
+  background-color: var(--primary-colour);
+  color: black;
+  border-radius: 10px;
+  text-transform: none;
+  font-size: medium;
+  height: 100%;
+}
+
+ul {
+  display: contents;
+}

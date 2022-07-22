@@ -1,0 +1,14 @@
+.nav-item {
+    list-style-type: none;
+    color: grey;
+    display: block;
+  }
+  
+  .nav-item:hover {
+    color: var(--primary-colour);
+    cursor: pointer;
+  }
+  
+  .nav-item.clicked {
+    color: var(--primary-colour);
+  }
